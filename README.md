@@ -1,0 +1,2 @@
+# AutoLoopBanner
+autoLoop、gradientEffect、performance、
